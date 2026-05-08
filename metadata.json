@@ -1,0 +1,6 @@
+{
+  "name": "AuraFit",
+  "description": "An AI beauty, skin, and fashion concierge providing personalized skin analysis, routine building, and virtual try-on suggestions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
